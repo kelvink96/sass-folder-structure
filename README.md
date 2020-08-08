@@ -1,1 +1,1 @@
-# sass-folder-structure
+# SaSS-folder-structure
