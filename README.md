@@ -11,7 +11,7 @@ sass/ <br>
 | main.scss (or main.sass)
 
 <h3>Definitions </h5>
-- <b>Abstracts (or utilities)</b>: holds Sass tools, helper files, variables, functions, mixins and other config files. These files are meant to be just helpers which don’t output any CSS when compiled. <br>
+### <b>Abstracts (or utilities)</b> <br> Holds Sass tools, helper files, variables, functions, mixins and other config files. These files are meant to be just helpers which don’t output any CSS when compiled. <br>
 - <b>Base</b>: holds the boilerplate code for the project. Including standard styles such as resets and typographic rules, which are commonly used throughout your project. <br>
 - <b>Components (or modules)</b>: holds all of your styles for buttons, carousels, sliders, and similar page components (think widgets). Your project will typically contain a lot of component files — as the whole site/app should be mostly composed of small modules. <br>
 - <b>Layout</b>: contains all styles involved with the layout of your project. Such as styles for your header, footer, navigation and the grid system. <br>
